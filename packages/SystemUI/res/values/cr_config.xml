@@ -48,4 +48,7 @@
     <string name="quick_settings_tiles_extra" translatable="false">
     </string>
 
+    <!-- Allow devices to hide black gradient behind QS Panel -->
+    <bool name="config_hideQSBlackGradient">true</bool>
+
 </resources>
